@@ -6,7 +6,7 @@
   "frame": {
     "requiredChains": ["eip155:42161"]
   },
-  {
+{
   "accountAssociation": {
     "header": "eyJmaWQiOjI1NDI0NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGJlYkNhRTJDYjEyYTM0N2MwQzFjYzkxN2I0ZTUwM2RGNjdiMDA1MUYifQ",
     "payload": "eyJkb21haW4iOiJoYWxvd2FoYWhhLnZlcmNlbC5hcHAifQ",
