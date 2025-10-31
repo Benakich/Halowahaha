@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Hallowahahahahaha",
+  "homeUrl": "https://halowahaha.vercel.app/",
+  "iconUrl": "https://hallowahahaha.xyz/icon.png",
+  "frame": {
+    "requiredChains": ["eip155:42161"]
+  },
+  "accountAssociation": {
+    "header": "PLACEHOLDER - We'll generate this next",
+    "payload": "PLACEHOLDER",
+    "signature": "PLACEHOLDER"
+  }
+}
