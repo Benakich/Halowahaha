@@ -6,9 +6,10 @@
   "frame": {
     "requiredChains": ["eip155:42161"]
   },
+  {
   "accountAssociation": {
-    "header": "PLACEHOLDER - We'll generate this next",
-    "payload": "PLACEHOLDER",
-    "signature": "PLACEHOLDER"
+    "header": "eyJmaWQiOjI1NDI0NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGJlYkNhRTJDYjEyYTM0N2MwQzFjYzkxN2I0ZTUwM2RGNjdiMDA1MUYifQ",
+    "payload": "eyJkb21haW4iOiJoYWxvd2FoYWhhLnZlcmNlbC5hcHAifQ",
+    "signature": "Byyg/Bdjnl6L0phpG0/QUYUgo+CN7ishdnt3gfjzq7F4wTa55o+AuEf7msfKw2Ua77i5x/qeeSv8uhuPCZbc8hs="
   }
 }
