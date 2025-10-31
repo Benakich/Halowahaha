@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "Hallowahahahahaha",
+  "homeUrl": "https://hallowahahahahaha.xyz/",
+  "iconUrl": "https://hallowahahahahaha.xyz/icon.png",
+  "frame": {
+    "requiredChains": ["eip155:42161"],
+    "requiredCapabilities": [
+      "actions.composeCast",
+      "wallet.getEthereumProvider"
+    ]
+  },
+  "accountAssociation": {
+    "type": "eip712",
+    "signature": "REPLACE_WITH_EIP712_SIGNATURE",
+    "message": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "timestamp": 0
+    }
+  }
+}
+
+

@@ -1,0 +1,25 @@
+{
+  "name": "hallowahahahahaha-miniapp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --strictPort --port 5173"
+  },
+  "dependencies": {
+    "@farcaster/frame-sdk": "^0.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "viem": "^2.38.5",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.12"
+  }
+}
